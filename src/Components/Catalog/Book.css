@@ -1,0 +1,35 @@
+h2 {
+  color: red;
+}
+
+.book-card {
+  border: 5px solid darkgrey;
+  padding: 20px;
+  width: 100%;
+  background-color: lightgrey;
+}
+
+img {
+    display: block;
+    width: 250px;
+    margin: auto;
+    padding-bottom: 7px;
+    
+  }
+
+#request-btn {
+    background-color: purple;
+    border-radius: 5px;
+    font-weight: bold;
+    font-size: 18px;
+    font-family: monospace;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    cursor: pointer;
+    margin-top: 5px;
+}
+
+#request-btn:hover {
+  background-color: red;
+}

@@ -7,7 +7,7 @@
       "description": "A Biblical worldview from A to Z. This book is a compelling call to embrace God's perspective and rediscover the enduring truths of the Bible for a foundational biblical worldview",
       "published": 2023,
       "language": "English",
-      "img": "https://github.com/lsternTTP/lesle-library-catalog/blob/main/src/img/WhatDoesGodHaveToSay.webp"
+      "img": "https://github.com/lsternTTP/lesle-library-catalog/blob/main/src/img/WhatDoesGodHaveToSay.webp?raw=true"
     },
     {
       "id": 10,
@@ -16,7 +16,7 @@
       "description": "Journeys into magical realms, battles between good and evil, talking creatures, and more, await readers of all ages in The Chronicles of Narnia..",
       "published": 1977,
       "language": "English",
-      "img": "https://github.com/lsternTTP/lesle-library-catalog/blob/main/src/img/ceremony.jpeg"
+      "img": "https://github.com/lsternTTP/lesle-library-catalog/blob/main/src/img/ceremony.jpeg?raw=true"
     },
     {
       "id": 4,
@@ -25,7 +25,7 @@
       "description": "The dramatic and inspiring true story of a small town minister called to help inner city kids everyone else believed were beyond hope.",
       "published": 1986,
       "language": "English",
-      "img": "https://github.com/lsternTTP/lesle-library-catalog/blob/main/src/img/TheCrossAndTheSwitchblade.webp"
+      "img": "https://github.com/lsternTTP/lesle-library-catalog/blob/main/src/img/TheCrossAndTheSwitchblade.webp?raw=true"
     },
     {
       "id": 6,
@@ -34,7 +34,7 @@
       "description": "In World War II Corrie Ten Boom and her family risked their lives to help Jews and underground workers escape from the Nazis, and for their work they were tested in the infamous Nazi death camps. Only Corrie among her family survived to tell the story of how faith ultimately triumphs over evil.",
       "published": 2006,
       "language": "English",
-      "img": "https://github.com/lsternTTP/lesle-library-catalog/blob/main/src/img/the-hitchhikers-guide-to-the-galaxy.jpeg"
+      "img": "https://github.com/lsternTTP/lesle-library-catalog/blob/main/src/img/the-hitchhikers-guide-to-the-galaxy.jpeg?raw=true"
     },
     {
       "id": 8,
@@ -43,7 +43,7 @@
       "description": "A Grief Observed by C.S. Lewis is a profound exploration of the human experience of loss and mourning",
       "published": 2023,
       "language": "English",
-      "img": "https://github.com/lsternTTP/lesle-library-catalog/blob/main/src/img/AGriefObserved.jpg"
+      "img": "https://github.com/lsternTTP/lesle-library-catalog/blob/main/src/img/AGriefObserved.jpg?raw=true"
     },
     {
       "id": 2,
@@ -52,7 +52,7 @@
       "description": "A totalitarian government controls everything in an imagined future. When a government worker starts to think for himself, he faces dire consequences.",
       "published": 1977,
       "language": "English",
-      "img": "https://github.com/lsternTTP/lesle-library-catalog/blob/main/src/img/1984.jpeg?raw=true"
+      "img": "https://github.com/lsternTTP/lesle-library-catalog/blob/main/src/img/1984.jpeg?raw=true?raw=true"
     },
     {
       "id": 5,
@@ -61,7 +61,7 @@
       "description": "In this electrifying real-life story, readers are gripped from the first page by the harrowing account of a young man who risked his life to smuggle Bibles through the borders of closed nations.",
       "published": 2015,
       "language": "English",
-      "img": "https://github.com/lsternTTP/lesle-library-catalog/blob/main/src/img/GodsSmuggler.jpg"
+      "img": "https://github.com/lsternTTP/lesle-library-catalog/blob/main/src/img/GodsSmuggler.jpg?raw=true"
     },
     {
       "id": 3,
@@ -70,7 +70,7 @@
       "description": "Letters between two sisters, one a missionary in Africa, and the other trapped in an abusive marriage in Georgia, shed light on the lived experience of rural African American women.",
       "published": 1982,
       "language": "English",
-      "img": "https://github.com/lsternTTP/lesle-library-catalog/blob/main/src/img/the-color-purple.jpeg"
+      "img": "https://github.com/lsternTTP/lesle-library-catalog/blob/main/src/img/the-color-purple.jpeg?raw=true"
     },
        
     {
@@ -80,7 +80,7 @@
       "description": "A first-hand account of the 1996 Mount Everest disaster, in which four expedition teams were trapped by a deadly storm.",
       "published": 1997,
       "language": "English",
-      "img": "https://github.com/lsternTTP/lesle-library-catalog/blob/main/src/img/into-thin-air.jpeg"
+      "img": "https://github.com/lsternTTP/lesle-library-catalog/blob/main/src/img/into-thin-air.jpeg?raw=true"
     },
    
     {
@@ -90,7 +90,7 @@
       "description": "Set in a bleak near-future California, 18-year-old Lauren suffers from hyperempathy—she feels others' pain as well as her own.",
       "published": 1993,
       "language": "English",
-      "img": "https://github.com/lsternTTP/lesle-library-catalog/blob/main/src/img/parable-of-the-sower.jpeg"
+      "img": "https://github.com/lsternTTP/lesle-library-catalog/blob/main/src/img/parable-of-the-sower.jpeg?raw=true"
     }
    
   ]

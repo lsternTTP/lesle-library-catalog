@@ -37,7 +37,7 @@ export default function Header(props) {
 {/* // Links and searchbar components */}
   {/* scrolling bar */}
 <div className="logo">
-<img id="img" src="src/img/behnam-norouzi-FusPlf972j8-unsplash.jpg" alt="Library logo"></img>
+<img id="img" src="https://github.com/lsternTTP/lesle-library-catalog/blob/main/src/img/behnam-norouzi-FusPlf972j8-unsplash.jpg?raw=true" alt="Library logo"></img>
 <h2>&#40;M&#41;ETROPOLITAN <br></br>&#40;P&#41;UBLIC<br></br>&#40;L&#41;IBRARY</h2>
 {/* <input type="text" placeholder="Search..."></input> 
 */}
